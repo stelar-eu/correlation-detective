@@ -1,0 +1,12 @@
+package similarities;
+
+public enum SimEnum {
+    PEARSON_CORRELATION,
+    SPEARMAN_CORRELATION,
+    MULTIPOLE,
+    EUCLIDEAN_SIMILARITY,
+    MANHATTAN_SIMILARITY,
+    TOTAL_CORRELATION
+}
+
+
